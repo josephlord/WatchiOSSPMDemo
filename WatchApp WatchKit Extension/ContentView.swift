@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SPMWatchExperiment
+//  WatchApp WatchKit Extension
 //
 //  Created by Joseph on 26/08/2020.
 //
